@@ -1,6 +1,6 @@
 # PEFT_CRIS
 
-Thanks for [DerrickWang005](https://github.com/DerrickWang005/CRIS.pytorch). I fine-turned their model with prompt learning and adapters. The model can be fine-turned in one Nvidia 4060 now.
+Thanks for [DerrickWang005](https://github.com/DerrickWang005/CRIS.pytorch). I fine-turned their model with prompt learning and adapters. The model can run with less than 8GB memory.
 
 
 @inproceedings{wang2021cris,
