@@ -1,6 +1,6 @@
 # PEFT_CRIS
 
-Thanks for [DerrickWang005](https://github.com/DerrickWang005/CRIS.pytorch). I fine-turned their model with prompt learning and adapters. The model can run with less than 8GB memory.<img><img>
+Thanks for [DerrickWang005](https://github.com/DerrickWang005/CRIS.pytorch). I fine-turned their model with prompt learning and adapters. The model can run with less than 8GB memory.<img>https://github.com/Huzhenchong/PEFT_CRIS/blob/main/PEFT_CRIS_EN.svg<img>
 see [master](https://github.com/Huzhenchong/PEFT_CRIS/tree/master) to download the model files and follow [readme](https://github.com/DerrickWang005/CRIS.pytorch/blob/master/README.md) to run the model
 
 
